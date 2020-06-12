@@ -1,0 +1,7 @@
+package dk.otherorg.api;
+
+public class MyApiClass {
+	public static void main(String[] args) {
+		new MyUtil1().;
+	}
+}

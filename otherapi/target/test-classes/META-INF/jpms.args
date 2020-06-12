@@ -1,0 +1,4 @@
+--patch-module
+myotherapi=_
+--add-reads
+myotherapi=ALL-UNNAMED

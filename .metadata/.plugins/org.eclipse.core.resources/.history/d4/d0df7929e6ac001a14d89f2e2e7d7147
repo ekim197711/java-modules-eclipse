@@ -1,0 +1,5 @@
+package dk.otherorg.api;
+
+public class MyApiClass {
+
+}

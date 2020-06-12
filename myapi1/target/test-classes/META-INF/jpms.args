@@ -1,0 +1,4 @@
+--patch-module
+my.first.api=_
+--add-reads
+my.first.api=ALL-UNNAMED

@@ -1,0 +1,4 @@
+module my.first.api {
+	requires java.base;
+	exports dk.myorg.util;
+}

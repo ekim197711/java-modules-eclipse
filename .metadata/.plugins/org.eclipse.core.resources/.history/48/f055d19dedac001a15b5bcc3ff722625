@@ -1,0 +1,4 @@
+module myotherapi {
+	requires my.first.api;
+	requires java.base;
+}
